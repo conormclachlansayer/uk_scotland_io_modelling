@@ -1,5 +1,5 @@
 # Ignore MS Word Files
-/*.docx
+*.docx
 
 # History files
 .Rhistory
