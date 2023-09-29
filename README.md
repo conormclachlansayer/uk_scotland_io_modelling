@@ -47,7 +47,3 @@ the UK model estimates higher indirect and induced effects. This is due to takin
 For example, spending £Xmill in the Scottish economy will have indirect and induced impacts from the English, Welsh and Northern Irish economies.
 The UK model takes into account these interdependencies, including second, third etc order effects.
 The Scotland model does not take into second, third etc order effects across the whole of the UK.
-
-"Economic Modelling & Regional Analysis Note.docx" discusses IO and CGE modelling frameworks, and the possibility to regionalise economic effects.
-
- 
