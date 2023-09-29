@@ -1,3 +1,6 @@
+# Ignore MS Word Files
+.docx
+
 # History files
 .Rhistory
 .Rapp.history
